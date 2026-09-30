@@ -1,5 +1,7 @@
-GDCdata/
 *.rds
+GDCdata/
+*.tar.gz
+.Rproj.user/
 .Rhistory
 .RData
-.Rproj.user/
+.Ruserdata
